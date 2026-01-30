@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Erstelle Typen für den Schichtplaner",
+    "status": "completed",
+    "activeForm": "Erstelle Typen"
+  },
+  {
+    "content": "Erstelle Mock-Daten für Mitarbeiter und Schichten",
+    "status": "completed",
+    "activeForm": "Erstelle Mock-Daten"
+  },
+  {
+    "content": "Implementiere Dashboard mit Wochenansicht und Inline-Bearbeitung",
+    "status": "completed",
+    "activeForm": "Implementiere Dashboard"
+  },
+  {
+    "content": "Führe npm run build aus",
+    "status": "completed",
+    "activeForm": "Führe Build aus"
+  },
+  {
+    "content": "Deploye mit deploy_to_github",
+    "status": "in_progress",
+    "activeForm": "Deploye zu GitHub"
+  }
+]
