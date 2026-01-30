@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "30688ded-4cc1-41d4-bac4-1ba6a3762e53",
+      "name": "2026-01-30 14:01 - UI-First: schicht",
+      "created_at": "2026-01-30T14:01:35.070284Z",
+      "last_used": "2026-01-30T14:01:35.070284Z"
+    }
+  ],
+  "active_session": "30688ded-4cc1-41d4-bac4-1ba6a3762e53"
+}
